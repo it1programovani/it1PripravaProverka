@@ -1,2 +1,2 @@
-# it1PripravaProverka
-Příprava na opravnou prověrku IT1 2018/2019
+# PŘÍPRAVA NA OPRAVU PRAKTICKÉ PROVĚRKY
+Pro zájemce, kteří stále nepochopili, jak funguje číslování a čtení ze souboru, nabízím procvičení podobného příkladu, jako to mu bylo dnes.  
